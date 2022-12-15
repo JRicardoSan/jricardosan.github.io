@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://jricardosan.github.io/sitemap.xml
