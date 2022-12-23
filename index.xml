@@ -33,6 +33,30 @@
     </item>
     
     <item>
+      <title>Education</title>
+      <link>https://jricardosan.github.io/education/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://jricardosan.github.io/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eperience</title>
+      <link>https://jricardosan.github.io/experience/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://jricardosan.github.io/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://jricardosan.github.io/skills/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://jricardosan.github.io/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>IBB2 Field Test Campaign</title>
       <link>https://jricardosan.github.io/field_tests/ibb2/</link>
       <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
@@ -225,7 +249,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-796258341&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-167523849&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -235,7 +259,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-796258341&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-167523849&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
